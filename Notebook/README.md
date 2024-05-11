@@ -15,15 +15,15 @@ This Jupyter Notebook titled "HarshGandhi_AIML_Assessment.ipynb" is a comprehens
    - Overview of the notebook's objective and scope.
 2. **Data Handling**
    - Specify correct file paths, load data, and check for missing values.
-3. **Exploratory Data Analysis (EDA)**
-   - Detailed visualizations such as trends over time, efficiency by area code, and costs by manufacturer.
-4. **Insights on Quarterly Data**
-   - Visualization and analysis of quarterly trends, product volumes, and estimated revenues.
-5. **Outlier Detection**
-   - Techniques used to detect and analyze outliers in sourcing costs.
-6. **Data Preprocessing**
+3. **Data Preprocessing**
    - Preparation of data for modeling including handling missing values and normalizing data.
-7. **Model Evaluation**
+4. **Exploratory Data Analysis (EDA)**
+   - Detailed visualizations such as trends over time, efficiency by area code, and costs by manufacturer.
+5. **Insights on Quarterly Data**
+   - Visualization and analysis of quarterly trends, product volumes, and estimated revenues.
+6. **Outlier Detection**
+   - Techniques used to detect and analyze outliers in sourcing costs.
+7. **Comprehensive Model Implementation and Evaluation**
    - Comprehensive evaluation of various regression models to determine the best performer based on metrics like Mean Squared Error and R-squared.
 8. **Implementing CatBoost Model**
    - Detailed implementation of the CatBoost model including parameter tuning and performance analysis.
@@ -31,7 +31,7 @@ This Jupyter Notebook titled "HarshGandhi_AIML_Assessment.ipynb" is a comprehens
    - Summary of findings and recommendations based on the analytical results.
 
 ## Purpose
-This notebook serves as an academic submission for the assessment in Advanced Machine Learning and includes predictive modeling to optimize sourcing costs using real-world data. It provides insights that could help in strategic decision-making related to sourcing in a manufacturing context.
+This notebook serves as an academic submission for the assessment facilitated by A.P. Moller Maersk, it includes predictive modeling to optimize sourcing costs using Product Sourcing Data. It provides insights that could help in strategic decision-making related to sourcing in a manufacturing context for diverse product types.
 
 ## Usage
 This notebook is intended for educational purposes and provides a detailed example of applying machine learning techniques in a business context. Users can follow the steps to understand the data analysis, model building, and evaluation process.
@@ -39,7 +39,3 @@ This notebook is intended for educational purposes and provides a detailed examp
 ## Notes
 - Ensure to have the necessary Python libraries installed, as listed in the notebook's setup cells.
 - Follow the instructions within each section to replicate the analysis or modify it to suit other datasets or questions.
-
-## Contact
-For more information or queries regarding this notebook, please contact [Your Contact Information].
-
