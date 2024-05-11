@@ -24,4 +24,7 @@ This model is suitable for:
 - Cost prediction tasks in supply chain management.
 - Business analytics for manufacturing and production planning.
 - Enhancing decision-making processes related to sourcing and procurement.
-
+  
+## Notes
+- The model's performance depends on the similarity of the new data to the data on which it was trained.
+- It is recommended to validate the model's predictions against known outcomes before using it for critical business decisions.
