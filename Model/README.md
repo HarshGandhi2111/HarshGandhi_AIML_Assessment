@@ -1,3 +1,4 @@
+https://i0.wp.com/innovationyourself.com/wp-content/uploads/2023/10/catboost.png?fit=559%2C235&ssl=1
 ## Overview
 This file, "catboost_model.joblib", contains a pre-trained CatBoost regression model. The model is trained to predict sourcing costs based on various product-related features, such as product type, manufacturer, sourcing area, and sourcing channel.
 
