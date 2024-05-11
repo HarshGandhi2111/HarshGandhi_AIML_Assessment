@@ -6,7 +6,7 @@ This project applies advanced machine learning techniques to optimize sourcing c
 
 ## Repository Contents
 
-### [Directory: Notebook]([URL](https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment/tree/main/Notebook))
+### [Directory: Notebook](https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment/tree/main/Notebook)
 - **HarshGandhi_AIML_Assessment.ipynb**: A detailed Jupyter Notebook that outlines the entire process from data loading, exploratory analysis, model training, and evaluation. The notebook includes comprehensive visualizations and insights into sourcing cost trends and efficiencies.
 
 ### Directory: Datasets
