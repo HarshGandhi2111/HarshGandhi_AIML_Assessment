@@ -1,6 +1,4 @@
 ![Dataset](https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment/assets/124970132/b9a2355a-03ee-43be-878e-ec0eec7065b1)
-# Dataset README
-
 ## Overview
 This dataset, has two files a training data and other being testing data, both the datasets consists of sourcing information for various products, including details about the product type, manufacturer, sourcing area, and cost. It is designed to support analyses for deriving business insights and strategic decisions.
 
