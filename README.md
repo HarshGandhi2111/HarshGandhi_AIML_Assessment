@@ -9,12 +9,15 @@ This project applies advanced machine learning techniques to optimize sourcing c
 ### [Directory: Notebook](https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment/tree/main/Notebook)
 - **HarshGandhi_AIML_Assessment.ipynb**: A detailed Jupyter Notebook that outlines the entire process from data loading, exploratory analysis, model training, and evaluation. The notebook includes comprehensive visualizations and insights into sourcing cost trends and efficiencies.
 
-### Directory: Datasets
+### [Directory: Dataset](https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment/tree/main/Dataset)
 - **DS_ML Coding Challenge Dataset (1).xlsx - Training Dataset.csv**: This dataset contains detailed sourcing information used for training predictive models.
-- **results.csv**: This dataset contains the performance metrics of different regression models, facilitating the selection of the model with the least mean squared error (MSE).
+- **DS_ML Coding Challenge Dataset (1).xlsx - Test Dataset.csv**: This dataset contains detailed sourcing information used for testing predictive models.
 
-### Models
+### [Directory: Model](https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment/tree/main/Model)
 - **catboost_model.joblib**: A serialized CatBoost regression model optimized for predicting sourcing costs. This model is chosen based on its performance metrics as detailed in the `results.csv`.
+
+### [Directory: Results](https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment/tree/main/Results)
+- **results.csv**: This dataset contains the performance metrics of different regression models, facilitating the selection of the model with the least mean squared error (MSE).
 
 ## Key Implementations
 1. **Exploratory Data Analysis (EDA)**: Analysis of trends, efficiencies, and costs related to product sourcing.
