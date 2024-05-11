@@ -27,9 +27,9 @@ This project applies advanced machine learning techniques to optimize sourcing c
 ## Usage
 To use the models or replicate the analysis:
 1. Clone the repository.
-   '''python
-   https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment.git
-   '''
+'''python
+!git clone https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment.git
+'''
 3. Install the necessary Python packages.
 4. Run the Jupyter notebook for detailed steps and explanations.
 
