@@ -27,11 +27,8 @@ This project applies advanced machine learning techniques to optimize sourcing c
 ## Usage
 To use the models or replicate the analysis:
 1. Clone the repository.
-2. '''python
-   !git clone https://github.com/HarshGandhi2111/HarshGandhi_AIML_Assessment.git
-   '''
-4. Install the necessary Python packages.
-5. Run the Jupyter notebook for detailed steps and explanations.
+2. Install the necessary Python packages.
+3. Run the Jupyter notebook for detailed steps and explanations.
 
 ### Loading the CatBoost Model
   ```python
