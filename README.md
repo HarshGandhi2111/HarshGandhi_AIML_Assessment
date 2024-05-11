@@ -34,7 +34,7 @@ To use the models or replicate the analysis:
   ```python
   from joblib import load
   model = load('catboost_model.joblib')
-
+```
 ### Applications
 This project is tailored for businesses looking to enhance decision-making processes related to sourcing and procurement. It provides tools to predict costs and analyze trends, thereby supporting strategic business decisions.
 
