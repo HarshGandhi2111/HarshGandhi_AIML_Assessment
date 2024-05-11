@@ -1,4 +1,6 @@
-<centering><img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python Logo" width="350" height="200"></centering>
+<div style="text-align:center">
+  <img src="https://logos-world.net/wp-content/uploads/2021/10/Python-Symbol.png" alt="Python Logo" width="350" height="200" style="display: block; margin-left: auto; margin-right: auto;">
+</div>
 
 ## Overview
 This Jupyter Notebook titled "HarshGandhi_AIML_Assessment.ipynb" is a comprehensive analytical report focused on the Predictive Analysis Program for Sourcing Cost Optimization. It combines extensive data visualizations with advanced machine learning techniques to derive insights and predict sourcing costs across various dimensions.
